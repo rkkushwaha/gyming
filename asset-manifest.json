@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gyming/static/css/main.3f2a3ae3.chunk.css",
+    "main.js": "/gyming/static/js/main.1ee74d3f.chunk.js",
+    "main.js.map": "/gyming/static/js/main.1ee74d3f.chunk.js.map",
+    "runtime-main.js": "/gyming/static/js/runtime-main.470ac867.js",
+    "runtime-main.js.map": "/gyming/static/js/runtime-main.470ac867.js.map",
+    "static/js/2.8797266e.chunk.js": "/gyming/static/js/2.8797266e.chunk.js",
+    "static/js/2.8797266e.chunk.js.map": "/gyming/static/js/2.8797266e.chunk.js.map",
+    "index.html": "/gyming/index.html",
+    "precache-manifest.dc6bedb25cf27f3a70d12c4d33d639f3.js": "/gyming/precache-manifest.dc6bedb25cf27f3a70d12c4d33d639f3.js",
+    "service-worker.js": "/gyming/service-worker.js",
+    "static/css/main.3f2a3ae3.chunk.css.map": "/gyming/static/css/main.3f2a3ae3.chunk.css.map",
+    "static/js/2.8797266e.chunk.js.LICENSE.txt": "/gyming/static/js/2.8797266e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.470ac867.js",
+    "static/js/2.8797266e.chunk.js",
+    "static/css/main.3f2a3ae3.chunk.css",
+    "static/js/main.1ee74d3f.chunk.js"
+  ]
+}
